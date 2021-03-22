@@ -56,7 +56,7 @@ and
 ================================= GitHub Repository =============================
 We will also make the raw python scripts available via our GitHub repository: 
 
-
+https://github.com/lykwinner/UCF_MATH/tree/master/Ready_Upload_Github
 
 
 ================================= Contact Info ==================================
